@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/poprawa-usability-level-editora/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/poprawa-usability-level-editora/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 ## Intencja :fas_star:
