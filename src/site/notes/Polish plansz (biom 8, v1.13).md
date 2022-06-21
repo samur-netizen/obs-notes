@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/polish-plansz-biom-8-v1-13/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/polish-plansz-biom-8-v1-13/","tags":"gardenEntry","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 
