@@ -69,3 +69,5 @@ https://orbitalknight.slack.com/archives/C0116N41D5K/p1655804303834339
 - Testowanie przeze mnie plansz od razu po sprincie to:
 	- mniej plansz do przegrania i taki task (godzinkę) łatwiej upchnąć
 	- szybszy feedback dla chłopaków który możemy wykorzystać jeszcze w produkcji aktualnych plansz
+	- na koniec release jest bardziej gęsto od tasków, polishu, itp. więc ciężej upchnąć taki większy review plansz
+		- jesteśmy też bardziej zmęczeni
