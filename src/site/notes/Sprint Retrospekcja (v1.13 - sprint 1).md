@@ -29,3 +29,4 @@
 ## Pomysły na usprawnienia
 - Więcej do siebie pisać na slacku - pytania, odpowiedzi asynchroniczne, a nie zawsze spotkania
 - Robić review plansz na zakładkę - po sprincie testujemy skończone plansze i dajemy feedback
+- Obserwujemy czy potrzebujemy jakiś sprzęt do pracy (Marcin miał problemy ze sprzętem pracując u rodziców)
